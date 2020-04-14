@@ -1,3 +1,7 @@
+# gatsby-blog
+
+This is simply a repository of the code I write for [Andrei and Yihua's course on Udemy](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/). And below is the Gatsby's default readme:
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
